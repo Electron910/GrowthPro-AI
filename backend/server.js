@@ -13,9 +13,7 @@ const corsOptions = {
   origin: function (origin, callback) {
     const allowedOrigins = [
       'http://localhost:3000',
-      'http://localhost:5173',
-      'https://your-app-name.vercel.app',
-      'https://your-app-name.netlify.app',
+      'https://growth-pro-ai-ten.vercel.app/'
       // Add your actual production URLs here
     ]
     
